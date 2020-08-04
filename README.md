@@ -1,2 +1,2 @@
 # Git-aman
-Demo
+Demo purpose.
